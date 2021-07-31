@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 
 - ⚡ Fun fact: I am a foody.
 
-![api](https://user-images.githubusercontent.com/35296051/127749034-c56f8a09-03c0-403f-b603-73d124820bc2.jpg)
+![api](https://github-readme-stats.vercel.app/api?username=akshayvit&theme=dark&show_icons=true)
 
 
 ![Capture](https://user-images.githubusercontent.com/35296051/127541073-2492e3f1-f752-4b04-a06f-751fb90fb468.PNG)
