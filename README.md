@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Akshay Chatterjee
 
-![api](https://www.youtube.com/watch?v=eZasNYBshcw&t=93s)
-
 <!--
 **akshayvit/akshayvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
