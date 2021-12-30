@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying at IIT Dhanbad.
+- 🔭  I’m currently working at Siemens Healthineers.
 - 
 - 🌱 I’m currently learning Deep Learning.
 - 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 
 - 💬 Ask me about Algorithms and data structures.
 - 
-- 📫 How to reach me: akshay.chatterjee2015@vit.ac.in
+- 📫 How to reach me: akshay.chatterjee2015vit@gmail.com
 - 
 - 😄 Pronouns: He xD
 - 
