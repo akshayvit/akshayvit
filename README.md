@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 
 ![api](https://github-readme-stats.vercel.app/api?username=akshayvit&theme=dark&show_icons=true)
 
-![Capture](https://user-images.githubusercontent.com/35296051/127541073-2492e3f1-f752-4b04-a06f-751fb90fb468.PNG)
 
 ### ----BYE BYE----
