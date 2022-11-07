@@ -20,7 +20,7 @@
 - 💬 Ask me about Advanced Data Structures and Algorithms, Golang HTTP Connections, Node JS quries if you have any, Redis or MongoDB if you want to explore something more.
 - 🤔
 - 🤔
-- 📫 How to reach me: akshay.chatterjee2015vit@gmail.com
+- 📫 How to reach me: Discord ID [ Akshay#8914 ]
 - 🤔
 - 🤔
 - 😄 Pronouns: He/Him
