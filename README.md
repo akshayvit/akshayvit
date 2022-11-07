@@ -7,7 +7,7 @@
 - 🤔
 - 🌱 I’m a continous learner and a huge passionate about diverse technologies.🥰
 - 🤔
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayvit&repo=zone-api1)](https://github.com/anuraghazra/github-readme-stats)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayvit&repo=golang_based_gauss_euation_solve)](https://github.com/anuraghazra/github-readme-stats)
 - 🤔
 - 
 - 👯 I’m looking to contribute in open source and make worthy pull requests .
