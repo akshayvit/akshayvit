@@ -1,5 +1,5 @@
 ### Hi there 👋 Coding Geek waiting for you for a mutual learning
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayvit&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayvit&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 <span class="header justify-content-center align-items-center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="border:8px solid blue;border-radius:45px;" width="200" height="180"/></span>
 - 🔭 I’m a competitive programmer and currently involved in open source contribution. 
