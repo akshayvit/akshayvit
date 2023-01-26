@@ -1,5 +1,15 @@
 ### Hi there 👋 Coding Geek waiting for you for a mutual learning
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayvit&layout=compact&langs_count=24)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://camo.githubusercontent.com/f97a10c7251ceaf0e2b3c6a944d84387df58f0ee58bb4d1bea11b7f82ea3a7a3/68747470733a2f2f692e696d6775722e636f6d2f415a61357978612e706e67" />
+<svg viewbox="10 10 10 10" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M 10,30
+           A 20,20 0,0,1 50,30
+           A 20,20 0,0,1 90,30
+           Q 90,60 50,90
+           Q 10,60 10,30 z" />
+  </svg>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayvit&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 <span class="header justify-content-center align-items-center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="border:8px solid blue;border-radius:45px;" width="200" height="180"/></span>
 - 🔭 I’m a competitive programmer and currently involved in open source contribution. 
